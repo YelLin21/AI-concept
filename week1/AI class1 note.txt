@@ -1,0 +1,4 @@
+Regression vs classification
+
+if arjan hold how many pens in his hand? => regression
+if arjan hold pens or not? => classification

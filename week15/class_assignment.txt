@@ -1,0 +1,18 @@
+Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment to maximize cumulative rewards. Unlike supervised learning, RL does not rely on labeled data but instead uses trial and error, guided by rewards or penalties. Here's a structured breakdown:
+
+Key Components:
+Agent: The learner or decision-maker.
+
+Environment: The world in which the agent operates.
+
+State (s): The current situation of the agent.
+
+Action (a): A move the agent makes to change its state.
+
+Reward (r): Immediate feedback from the environment based on the action.
+
+Policy (π): The strategy (rules) the agent uses to choose actions given a state.
+
+Value Function: Estimates the expected long-term return from a state or action, guiding the agent toward optimal decisions.
+
+Discount Factor (γ): Balances immediate and future rewards (0 ≤ γ ≤ 1).

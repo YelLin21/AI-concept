@@ -1,0 +1,15 @@
+A neural network is a machine learning model inspired by the human brain, designed to recognize patterns and make predictions. It consists of:
+
+Layers: Input (data), hidden (processing), and output (result).
+Neurons: Units that process inputs using weights and biases.
+Activation Functions: Add non-linearity for learning complex patterns.
+Learning: Forward propagation (data flows) and backpropagation (adjusts weights to reduce error).
+
+Types:
+Feedforward: Basic classification.
+CNNs: Image analysis.
+RNNs: Sequential data.
+Transformers: NLP tasks.
+
+Uses:
+Image recognition, language processing, autonomous vehicles, and predictive analytics.
